@@ -6,4 +6,5 @@ Project for Programming Lab
 
 Uses Yahoo finance api and quantmod package to retrieve information
 
-Visit rvarun.in For demo
+Visit http://rvarun.in For demo
+
